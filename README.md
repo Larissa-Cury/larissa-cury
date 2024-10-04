@@ -23,6 +23,8 @@
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="40" alt="powerbi logo" />
   <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/86/Microsoft_Excel_2013-2019_logo.svg" height="40" alt="excel logo" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
