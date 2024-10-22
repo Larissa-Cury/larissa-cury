@@ -33,6 +33,33 @@
 
 ###
 
+### Main Projects 
+
+## E-commerce Sales Project 
+<img align="right" width="500" height="320" src="https://drive.google.com/uc?id=1dP7f8_ORmpAoVGIVIE5zeCCNPmubNNJJ">
+This project analysis a 3-year interval data of a fictionous e-commerce company especilized in the Pet Market. The pet shop especializes in 5 different product categories (food, snacks, medicine, toys and hygine), for which the company offers 10 different products. The pet shop has delivery deals with 5 distribution centers in the city of Rio de Janeiro, in 5 different regions of the city (South, North, West, "Baixada Fluminense" and Downtown).
+<br><br>
+
+* The project aims to demonstrate some of my skills with `R`, `SQL` and `Power Bi` along with my critical and analytical thinking skills. I broke it down into sections to improve organization and readability. 
+* I carefully wrote a README for the project's GitHub Repository, which you can find <a href="[https://github.com/Larissa-Cury/E-commerceProject/tree/c119ed1acb87e809e5f7817054edd98038880cfd/SQL%20Files%20(Create%20DB%20and%20Data%20Model)](https://github.com/Larissa-Cury/E-commerceProject/tree/main)" target="_blank">HERE</a>
+
+## Data Analysis Projects 
+
+* I was responsible for the data analysis section of the following articles, which were published in well-known peer-review journals. All analysis were made in `R` with `RSTUDIO` IDE.
+
+  - Finger, I., Lemke, C.E., Cury, L.S., Mota, N.B., & Weissheimer, J. (accepted for publication). When kids juggle it all: Biliteracy instruction and the development of connected discourse in L1 and L2 writing. Cognitive Development.
+
+  - Lemke, C.E., Cury, L.S., Weissheimer, J., Mota, N.B., & Finger, I. (2023). Longitudinal investigation of connectedness and syntactic complexity in the written production of bilingual children during the COVID-19 pandemic. Letrônica, (16). DOI: doi.org/10.15448/1984- 4301.2023.1.44413
+
+  - Costa, A.C., Cury, L.S., Finger, I., Mota, N.B., Weissheimer, J. (2023). Two languages in one mind: Biliteracy, speech connectedness and reading in 5th grade bilingual children. Ilha do Desterro, 76: 93-115. DOI: doi.org/10.5007/2175-8026.2023.e94537
+
+MA THESIS
+
+ - Cury, L.S. Working memory/short-term memory and reading in bilingual children: a systematic review based on the PRISMA method.
+
+BOOK CHAPTERS
+
+ - Brentano, L.S., Cury, L.S., Weissheimer, J., & Finger, I. (in press) Alfabetização de crianças bilíngues: ideias, mitos e equívocos na formação (ou falta dela) em contextos de escolarização bilíngue [Literacy of bilingual children: ideas, myths and misconceptions in training (or lack of it) in bilingual schooling contexts]. In U.K. Alves, & I. Finger (Eds.) Literacia e Alfabetização: Da teoria à prática. Campinas, SP: Pontes Editora.
 
 <!--
 -- Hi there 👋
