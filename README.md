@@ -32,7 +32,7 @@
 </div>
 
 ## Main Projects 
----
+
 
 ### E-commerce Sales Project 
 <img align="right" width="500" height="320" src="https://drive.google.com/uc?id=1dP7f8_ORmpAoVGIVIE5zeCCNPmubNNJJ">
@@ -58,13 +58,12 @@ This project analysis a 3-year interval data of a fictionous e-commerce company 
 
       - Finger, I., Lemke, C.E., Cury, L.S., Mota, N.B., & Weissheimer, J. (accepted for publication). When kids juggle it all: Biliteracy instruction and the development of connected discourse in L1 and L2 writing. Cognitive Development.
   
-      - Lemke, C.E., Cury, L.S., Weissheimer, J., Mota, N.B., & Finger, I. (2023). Longitudinal investigation of connectedness and syntactic complexity in the written production of bilingual children during the COVID-19 pandemic. Letrônica, (16). DOI: doi.org/10.15448/1984- 4301.2023.1.44413
-  
-      - Costa, A.C., Cury, L.S., Finger, I., Mota, N.B., Weissheimer, J. (2023). Two languages in one mind: Biliteracy, speech connectedness and reading in 5th grade bilingual children. Ilha do Desterro, 76: 93-115. DOI: doi.org/10.5007/2175-8026.2023.e94537
+      - Lemke, C.E., Cury, L.S., Weissheimer, J., Mota, N.B., & Finger, I. (2023). Longitudinal investigation of connectedness and syntactic complexity in the written production of bilingual children during the COVID-19 pandemic. Letrônica, (16). <a href="https://revistaseletronicas.pucrs.br/letronica/article/view/44413/28234" target="_blank">ACCESS HERE</a>
+      - Costa, A.C., Cury, L.S., Finger, I., Mota, N.B., Weissheimer, J. (2023). Two languages in one mind: Biliteracy, speech connectedness and reading in 5th grade bilingual children. Ilha do Desterro, 76: 93-115. <a href="https://periodicos.ufsc.br/index.php/desterro/article/view/94537/54736" target="_blank">ACCESS HERE</a
 
 MA THESIS
 
-   - Cury, L.S. Working memory/short-term memory and reading in bilingual children: a systematic review based on the PRISMA method.
+   - Cury, L.S. Working memory/short-term memory and reading in bilingual children: a systematic review based on the PRISMA method. <a href="[https://periodicos.ufsc.br/index.php/desterro/article/view/94537/54736](https://lume.ufrgs.br/handle/10183/278608)" target="_blank">ACCESS HERE</a
 
 BOOK CHAPTERS
 
