@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2021<br>📚 I'm interested in R, SQL, Power Bi and Python<br>🎯 Goals: Work in a Data Analytics Team<br>🎲 Fun fact: I taught myself R and Stats during my Masters and feel in love with data analysis ever since!</p>
+<p align="left">✨ Creating bugs since 2021<br>📚 I'm interested in providing insights based on data<br>🎯 Goals: Work in a Data Analytics Team<br>🎲 Fun fact: I taught myself R and Stats during my Masters and feel in love with data analysis ever since!</p>
 
 ###
 
