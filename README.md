@@ -46,18 +46,21 @@ This project analysis a 3-year interval data of a fictionous e-commerce company 
 
 * I was responsible for the data analysis section of the following articles, which were published in well-known peer-review journals. All analysis were made in `R` with `RSTUDIO` IDE.
 * For these articles, I was responsible for
-   - Exctracting and cleaning the data;
-   - Performing exploratory data analysis;
-   - Obtaining Descriptive Statistics;
-   - Performing correlational analysis as well as partial correlations;
-   - Performing multiple regression models with random slopes;
-   - Data visualization with tables and diverse setting of plots, such as scatter and boxplots
+   - `Extracting` and `cleaning` the data;
+   - Performing `exploratory data analysis`;
+   - Obtaining `Descriptive Statistics`;
+   - Performing `correlational analysis` as well as `partial correlations`;
+   - Performing `multiple regression models` with random slopes;
+   - `Data visualization` with tables and diverse setting of plots, such as scatter and boxplots;
+   - `Reporting` the data analysis procedures in the articles' `Data Analysis` Sections;
+   - `Describing` and `reporting` both descriptive and inferential data analysis in the articles' `Results` sections
 
-    - Finger, I., Lemke, C.E., Cury, L.S., Mota, N.B., & Weissheimer, J. (accepted for publication). When kids juggle it all: Biliteracy instruction and the development of connected discourse in L1 and L2 writing. Cognitive Development.
 
-    - Lemke, C.E., Cury, L.S., Weissheimer, J., Mota, N.B., & Finger, I. (2023). Longitudinal investigation of connectedness and syntactic complexity in the written production of bilingual children during the COVID-19 pandemic. Letrônica, (16). DOI: doi.org/10.15448/1984- 4301.2023.1.44413
-
-    - Costa, A.C., Cury, L.S., Finger, I., Mota, N.B., Weissheimer, J. (2023). Two languages in one mind: Biliteracy, speech connectedness and reading in 5th grade bilingual children. Ilha do Desterro, 76: 93-115. DOI: doi.org/10.5007/2175-8026.2023.e94537
+      - Finger, I., Lemke, C.E., Cury, L.S., Mota, N.B., & Weissheimer, J. (accepted for publication). When kids juggle it all: Biliteracy instruction and the development of connected discourse in L1 and L2 writing. Cognitive Development.
+  
+      - Lemke, C.E., Cury, L.S., Weissheimer, J., Mota, N.B., & Finger, I. (2023). Longitudinal investigation of connectedness and syntactic complexity in the written production of bilingual children during the COVID-19 pandemic. Letrônica, (16). DOI: doi.org/10.15448/1984- 4301.2023.1.44413
+  
+      - Costa, A.C., Cury, L.S., Finger, I., Mota, N.B., Weissheimer, J. (2023). Two languages in one mind: Biliteracy, speech connectedness and reading in 5th grade bilingual children. Ilha do Desterro, 76: 93-115. DOI: doi.org/10.5007/2175-8026.2023.e94537
 
 MA THESIS
 
