@@ -63,7 +63,7 @@ This project analysis a 3-year interval data of a fictionous e-commerce company 
 
 MA THESIS
 
-   - Cury, L.S. Working memory/short-term memory and reading in bilingual children: a systematic review based on the PRISMA method. <a href="[https://periodicos.ufsc.br/index.php/desterro/article/view/94537/54736](https://lume.ufrgs.br/handle/10183/278608)" target="_blank">ACCESS HERE</a
+   - Cury, L.S. Working memory/short-term memory and reading in bilingual children: a systematic review based on the PRISMA method. <a href="[https://periodicos.ufsc.br/index.php/desterro/article/view/94537/54736](https://lume.ufrgs.br/handle/10183/278608)" target="_blank">ACCESS HERE</a>
 
 BOOK CHAPTERS
 
